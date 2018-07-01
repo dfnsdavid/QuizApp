@@ -1,0 +1,4 @@
+#Sun Jul 01 21:54:26 WAT 2018
+base.0=/home/dfnsdavid/AndroidStudioProjects/QuizApp/app/build/intermediates/transforms/dexMerger/debug/42
+path.0=classes.dex
+renamed.0=classes.dex

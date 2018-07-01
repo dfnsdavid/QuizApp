@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/361e1db24a8151f3c8317f834a33d7fa/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/25704166881b1341a8c7ce6eb665c591/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/0db62d9ee959731ef32a49d93444ee13/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/1de07a8eb0901083f5d80bfe6fa0e495/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/68d5844a7a48f1b0ec8c4c3b036aecdf/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/361e1db24a8151f3c8317f834a33d7fa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/361e1db24a8151f3c8317f834a33d7fa/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/25704166881b1341a8c7ce6eb665c591/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/25704166881b1341a8c7ce6eb665c591/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/0db62d9ee959731ef32a49d93444ee13/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/0db62d9ee959731ef32a49d93444ee13/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/1de07a8eb0901083f5d80bfe6fa0e495/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/1de07a8eb0901083f5d80bfe6fa0e495/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/68d5844a7a48f1b0ec8c4c3b036aecdf/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/68d5844a7a48f1b0ec8c4c3b036aecdf/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.android.quizapp.MainActivity
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.example.android.quizapp.quiz_question
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:18:19-48
+activity#com.example.android.quizapp.ResultActivity
+ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml:19:19-49
+uses-sdk
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/361e1db24a8151f3c8317f834a33d7fa/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/361e1db24a8151f3c8317f834a33d7fa/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/25704166881b1341a8c7ce6eb665c591/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/25704166881b1341a8c7ce6eb665c591/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/0db62d9ee959731ef32a49d93444ee13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.1.1.aar/0db62d9ee959731ef32a49d93444ee13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/1de07a8eb0901083f5d80bfe6fa0e495/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.1.1.aar/1de07a8eb0901083f5d80bfe6fa0e495/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/68d5844a7a48f1b0ec8c4c3b036aecdf/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/support-v4-24.1.1.aar/68d5844a7a48f1b0ec8c4c3b036aecdf/AndroidManifest.xml:21:5-23:54
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /home/dfnsdavid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.1.1.aar/361e1db24a8151f3c8317f834a33d7fa/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dfnsdavid/AndroidStudioProjects/QuizApp/app/src/main/AndroidManifest.xml
